@@ -1,0 +1,19 @@
+name: labofis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - xarray
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - cmocean
+  - cartopy
+  - netcdf4
+  - h5netcdf
+  - pip
+  - pip:
+    - noaa_ftp
+    - python-dateutil
