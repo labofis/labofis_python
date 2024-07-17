@@ -17,3 +17,5 @@ dependencies:
   - pip:
     - noaa_ftp
     - python-dateutil
+    - copernicusmarine>=1.0<=2.0
+  - python>=3.9,<3.12
