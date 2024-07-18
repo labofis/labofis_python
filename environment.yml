@@ -15,8 +15,6 @@ dependencies:
   - pythia-datasets
   - python
   - scipy
-  - datetime
-  - math
   - seaborn
   - cmocean
   - cartopy
