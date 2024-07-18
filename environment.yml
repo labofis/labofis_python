@@ -1,18 +1,33 @@
 name: labofis
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - matplotlib
+  - jupyter-book
+  - jupyterlab
+  - ipython
   - xarray
   - numpy
   - pandas
+  - pre-commit
+  - dask
+  - pyproj
+  - pythia-datasets
+  - python
   - scipy
+  - datetime
+  - math
   - seaborn
   - cmocean
   - cartopy
+  - nc-time-axis
   - netcdf4
   - h5netcdf
+  - ffmpeg
+  - python-graphviz
+  - graphviz
+  - setuptools>=69.0.3
+  - sphinx-pythia-theme
   - pip
   - pip:
     - noaa_ftp
