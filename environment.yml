@@ -32,4 +32,5 @@ dependencies:
     - noaa_ftp
     - python-dateutil
     - copernicusmarine
+    - utide
   - python>=3.9,<3.12
