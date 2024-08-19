@@ -26,6 +26,7 @@ dependencies:
   - graphviz
   - setuptools>=69.0.3
   - sphinx-pythia-theme
+  - plotly
   - pip
   - pip:
     - noaa_ftp
