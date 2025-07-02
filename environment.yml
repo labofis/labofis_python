@@ -21,6 +21,7 @@ dependencies:
   - nc-time-axis
   - netcdf4
   - h5netcdf
+  - zarr
   - ffmpeg
   - python-graphviz
   - graphviz
